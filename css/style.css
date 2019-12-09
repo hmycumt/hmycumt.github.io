@@ -1,0 +1,35 @@
+@charset "utf-8";
+body {font-size:12px;color:#666;font-family:"微软雅黑"margin: 0;padding: 0;background-color:#E2D4AF;}
+.con{width:1200px; margin:0 auto;}
+.daohang{background: #B68E50;height: 50px; }
+.daohang li {float: left; width: 180px; line-height: 50px; list-style: none; text-align: center; }
+.daohang li a { color: #000; text-decoration: none; font-size: 14px; }
+.daohang li a:hover {font-weight: bold; }
+.zhengwen{height:1050px;}
+.banner{float:left;width:1200px;}
+.leftwen{float:left;width:850px;height: 290px;margin-top:20px;color: #000;font-size:14px;line-height: 30px; background: #fff; }
+.leftwen p{padding:0 10px 0 10px;color:#000;line-height:30px;font-size: 14px;}
+.leftwen .bt{width:850px;height:50px;background-color:#B68E50}
+.leftwen .bt span{margin-left:20px; line-height:50px;color: #2a0b13;font-weight: bold;font-size: 14px;}
+.rightwen{float:right;width:320px;height: 290px;margin-top:20px;color: #000;font-size:14px;line-height: 30px; background: #fff; }
+.rightwen p{padding:0 10px 0 10px;color:#000;line-height:30px;font-size: 14px;}
+.rightwen .bt{width:320px;height:50px;background-color:#B68E50}
+.rightwen .bt span{margin-left:20px; line-height:50px;color: #2a0b13;font-weight: bold;font-size: 14px;}
+#hb{float:left; width:1200px;height: 260px;margin-top:20px;background: #fff; }
+#hb .bt{width:1200px;height:50px;background-color:#B68E50}
+#hb .bt span{margin-left:20px; line-height:50px;color: #2a0b13;font-weight: bold;font-size: 14px;}
+#hb ul{width:1200px;}
+#hb ul li{width:216px;float:left; list-style-type:none; padding-right:10px; text-align:center;}
+.foot{background-color:#B68E50;clear:both;text-align:center;}
+.wenzi{text-align: center;line-height:80px;color: #fff;font-size: 14px;}
+.wenzi a{color: #fff;font-size: 14px;}
+.ziye{padding:15px;line-height:25px;color: #000;font-size: 14px;background: #fff; }
+.leftls {float:left;width:120px;height:300px;margin-top:20px; }
+.leftls .bt{width:120px;height:50px;background-color:#B68E50;text-align:center;}
+.leftls .bt span a{line-height:50px;color: #2a0b13;font-size: 14px;}
+.leftls .dh{width:120px;height:80px;background-color:#000;text-align:center;}
+.leftls .dh span{line-height:80px;color: #fff;font-size: 14px;}
+.rightls{float:right;width:1050px;margin-top:20px;color: #000;font-size:14px;line-height: 30px; background: #fff; }
+.rightls p{padding:0 10px 0 10px;color:#000;line-height:30px;font-size: 14px;}
+.rightls .bt{width:1050px;height:50px;background-color:#B68E50}
+.rightls .bt span{margin-left:20px; line-height:50px;color: #2a0b13;font-weight: bold;font-size: 14px;}
